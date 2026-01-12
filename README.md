@@ -2,6 +2,12 @@
 <h3 align="center">CS Student | Linux Systems Programming Enthusiast</h3>
 
 <p align="center">
+  <a href="https://vivek-salve-b0gpuwm.gamma.site/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=viveksalve2004&label=Profile%20views&color=0e75b6&style=flat" alt="viveksalve2004" />
 </p>
 
