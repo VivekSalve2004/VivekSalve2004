@@ -49,13 +49,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viveksalve2004&show_icons=true&theme=tokyonight" alt="Vivek's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=viveksalve2004&show_icons=true&theme=tokyonight" alt="Vivek's Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksalve2004&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=viveksalve2004&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksalve2004&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=viveksalve2004&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
