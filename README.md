@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=viveksalve2004&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=viveksalve2004&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=viveksalve2004&theme=tokyonight&cache_buster=1" alt="Streak Stats" />
 </p>
 
 ---
