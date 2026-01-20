@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Salv</h1>
+<h1 align="center">Hi 👋, I'm Vivek Salve</h1>
 <h3 align="center">CS Student | Linux System Programming Enthusiast</h3>
 
 <p align="center">
